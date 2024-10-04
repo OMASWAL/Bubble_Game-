@@ -5,5 +5,5 @@ https://omaswal.github.io/Bubble_Game-/    (link)
 
 Features
 Interactive Gameplay - Click on bubbles to pop them and earn points.
-Responsive Design -  Works on both desktop and mobile browsers.
+Responsive Design -  Works on both desktop browsers.
 Event Bubbling Mechanism - Uses event bubbling to manage click events on bubbles.
